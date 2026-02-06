@@ -3,10 +3,10 @@ name: Combine M3U (No Deduplication)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 1,16 * *
+    - cron: "0 0 1,16 * *"
 
 permissions:
-  contents: write   # 👈 THIS IS THE IMPORTANT PART
+  contents: write   # required to push commits
 
 jobs:
   combine:
