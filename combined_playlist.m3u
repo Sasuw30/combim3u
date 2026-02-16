@@ -1043,36 +1043,6 @@ https://tvpass.org/live/WeTVEast/sd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="Live",Yes Network
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Penguins @ Buffalo Sabres (02/05 7:00 PM ET)" group-title="NHL",Pittsburgh Penguins @ Buffalo Sabres (02/05 7:00 PM ET)
-https://tvpass.org/live/NHL10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Carolina Hurricanes @ New York Rangers (02/05 7:00 PM ET)" group-title="NHL",Carolina Hurricanes @ New York Rangers (02/05 7:00 PM ET)
-https://tvpass.org/live/NHL04/sd
-#EXTINF:-1 tvg-id="" tvg-name="Nashville Predators @ Washington Capitals (02/05 7:00 PM ET)" group-title="NHL",Nashville Predators @ Washington Capitals (02/05 7:00 PM ET)
-https://tvpass.org/live/NHL12/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Islanders @ New Jersey Devils (02/05 7:00 PM ET)" group-title="NHL",New York Islanders @ New Jersey Devils (02/05 7:00 PM ET)
-https://tvpass.org/live/NHL09/sd
-#EXTINF:-1 tvg-id="" tvg-name="Ottawa Senators @ Philadelphia Flyers (02/05 7:00 PM ET)" group-title="NHL",Ottawa Senators @ Philadelphia Flyers (02/05 7:00 PM ET)
-https://tvpass.org/live/NHL18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nets @ Orlando Magic (02/05 7:10 PM ET)" group-title="NBA",Brooklyn Nets @ Orlando Magic (02/05 7:10 PM ET)
-https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards @ Detroit Pistons (02/05 7:10 PM ET)" group-title="NBA",Washington Wizards @ Detroit Pistons (02/05 7:10 PM ET)
-https://tvpass.org/live/NBA01/sd
-#EXTINF:-1 tvg-id="" tvg-name="Florida Panthers @ Tampa Bay Lightning (02/05 7:30 PM ET)" group-title="NHL",Florida Panthers @ Tampa Bay Lightning (02/05 7:30 PM ET)
-https://tvpass.org/live/NHL07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Utah Jazz @ Atlanta Hawks (02/05 7:40 PM ET)" group-title="NBA",Utah Jazz @ Atlanta Hawks (02/05 7:40 PM ET)
-https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Bulls @ Toronto Raptors (02/05 7:40 PM ET)" group-title="NBA",Chicago Bulls @ Toronto Raptors (02/05 7:40 PM ET)
-https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Houston Rockets (02/05 8:10 PM ET)" group-title="NBA",Charlotte Hornets @ Houston Rockets (02/05 8:10 PM ET)
-https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Dallas Mavericks (02/05 8:40 PM ET)" group-title="NBA",San Antonio Spurs @ Dallas Mavericks (02/05 8:40 PM ET)
-https://tvpass.org/live/NBA06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Kings @ Vegas Golden Knights (02/05 10:00 PM ET)" group-title="NHL",Los Angeles Kings @ Vegas Golden Knights (02/05 10:00 PM ET)
-https://tvpass.org/live/NHL29/sd
-#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors @ Phoenix Suns (02/05 10:10 PM ET)" group-title="NBA",Golden State Warriors @ Phoenix Suns (02/05 10:10 PM ET)
-https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia 76ers @ Los Angeles Lakers (02/05 10:10 PM ET)" group-title="NBA",Philadelphia 76ers @ Los Angeles Lakers (02/05 10:10 PM ET)
-https://tvpass.org/live/NBA08/sd
 # https://github.com/BuddyChewChew
 # Discord: https://discord.gg/fnsWGDy2mm
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml.gz"
@@ -4127,58 +4097,58 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Strasbourg vs Monaco (FEB 06 @ 04:00 AM PHT)
-https://daffodil.xn--1000-ugoxe8a5a7g4h.com/deportes.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b8e86da9d22922137c4594754aef9fe0-thumbnail.jpg" group-title="Soccer",Real Betis vs Atletico Madrid (FEB 06 @ 04:00 AM PHT)
-https://daffodil.xn--1000-ugoxe8a5a7g4h.com/betis.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0a8d7cb04b999a8c255bffab6c3d4be5-thumbnail.jpg" group-title="Soccer",Atalanta vs Juventus (FEB 06 @ 04:00 AM PHT)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Sporting CP vs AVS (FEB 06 @ 04:45 AM PHT)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4a36dfe0c3670098b2491081c530ca88-thumbnail.jpg" group-title="NBA",Washington Wizards vs Detroit Pistons (FEB 06 @ 08:00 AM PHT)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/273fd494eb697bbb1dec1769845331b0-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Orlando Magic (FEB 06 @ 08:00 AM PHT)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9406927c7f4b45262534f223864200ae-thumbnail.jpg" group-title="NHL",Pittsburgh Penguins vs Buffalo Sabres (FEB 06 @ 08:00 AM PHT)
-https://601.xn--1000-ugoa0hsb9a0hb.com/nhl.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/63bf1632d1d6e9165ed3ca763e20e559-thumbnail.jpg" group-title="NHL",New York Islanders vs New Jersey Devils (FEB 06 @ 08:00 AM PHT)
-https://601.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1bc110d5bec6e1b665e1c9ca145805b1-thumbnail.jpg" group-title="NHL",Carolina Hurricanes vs New York Rangers (FEB 06 @ 08:00 AM PHT)
-https://601.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/aec04115fb0cbe7e689f48a19e4b8eab-thumbnail.jpg" group-title="NHL",Ottawa Senators vs Philadelphia Flyers (FEB 06 @ 08:00 AM PHT)
-https://601.xn--1000-ugoa0hsb9a0hb.com/nhl4.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2fc4fbc15a40176fab97e47c7d713790-thumbnail.jpg" group-title="NHL",Nashville Predators vs Washington Capitals (FEB 06 @ 08:00 AM PHT)
-https://601.xn--1000-ugoa0hsb9a0hb.com/nhl5.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/10faa1b4399964c9543dd2feeb6c8f0a-thumbnail.jpg" group-title="NBA",Utah Jazz vs Atlanta Hawks (FEB 06 @ 08:30 AM PHT)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2f69b7bf9e1aaa98b530ecf77d35d3af-thumbnail.jpg" group-title="NBA",Chicago Bulls vs Toronto Raptors (FEB 06 @ 08:30 AM PHT)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba4.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b30cdddb238719144bb193326a4480af-thumbnail.jpg" group-title="NHL",Florida Panthers vs Tampa Bay Lightning (FEB 06 @ 08:30 AM PHT)
-https://601.xn--1000-ugoa0hsb9a0hb.com/nhl6.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b1eb94c37f11c9e046ab331588936a9c-thumbnail.jpg" group-title="NBA",Charlotte Hornets vs Houston Rockets (FEB 06 @ 09:00 AM PHT)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cfdcda251cb8d9336a066fc5e2caff33-thumbnail.jpg" group-title="NBA",San Antonio Spurs vs Dallas Mavericks (FEB 06 @ 09:30 AM PHT)
-https://601.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c10412be3f69194e8a155958809d62f3-thumbnail.jpg" group-title="NBA",Golden State Warriors vs Phoenix Suns (FEB 06 @ 11:00 AM PHT)
-https://601.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5c7ef663fc7efcc8e913a582369b7086-thumbnail.jpg" group-title="NBA",Philadelphia 76ers vs Los Angeles Lakers (FEB 06 @ 11:00 AM PHT)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba4.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/27615ddfccb827aa26ab14dc013906e0-thumbnail.jpg" group-title="NHL",Los Angeles Kings vs Vegas Golden Knights (FEB 06 @ 11:00 AM PHT)
-https://601.xn--1000-ugoa0hsb9a0hb.com/nhl7.m3u8
-#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7e463b1a8e169b031826c014356c3da6-thumbnail.jpg" group-title="NFL",NFL Honors
-https://601.xn--1000-ugoxe8a5a7g4h.com/nflalt.m3u8
-#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0e57b3eaaf22c1c4e8739517193665cb-thumbnail.jpg" group-title="NFL",Seattle Seahawks vs New England Patriots
-https://601.xn--1000-ugoa0hsb9a0hb.com/nflalt.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Bahia vs Fluminense
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/premiere.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Cruzeiro vs Coritiba
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/premiere.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Juventud vs Universidad Católica
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/f1.png" group-title="Motorsports",NASCAR Cook Out
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nascar.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Fighting",WWE Smackdown
-https://601.xn--1000-ugoxe8a5a7g4h.com/wwe.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f2ffec89e07c9ce9fadf34bc5e05f088-thumbnail.jpg" group-title="Soccer",Udinese vs Sassuolo (FEB 15 @ 07:30 PM PHT)
+https://601.xn--1000-ugoxe8a5a7g4h.com/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4c55f036a58d846b57923b3d1cbdf708-thumbnail.jpg" group-title="Soccer",Birmingham City vs Leeds United (FEB 15 @ 08:00 PM PHT)
+https://daffodil.833577.xyz/golazo.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fdd586fed675b520cef2b6478d273636-thumbnail.jpg" group-title="Soccer",Real Oviedo vs Athletic Club (FEB 15 @ 09:00 PM PHT)
+https://daffodil.833577.xyz/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c29792e7a350f04a185a3523bff4f38c-thumbnail.jpg" group-title="Soccer",Grimsby Town vs Wolves (FEB 15 @ 09:30 PM PHT)
+https://daffodil.833577.xyz/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d1ccf681a99d9ab7d492f6a1b2d3c6a7-thumbnail.jpg" group-title="Soccer",Stoke City vs Fulham (FEB 15 @ 10:00 PM PHT)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/fulham.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a4db067a8c247ac542df5eef475bfead-thumbnail.jpg" group-title="Soccer",Oxford United vs Sunderland (FEB 15 @ 10:00 PM PHT)
+https://daffodil.xn--1000-ugoxe8a5a7g4h.com/tnt5.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/147fa5a65f654e4eeb8c2b6d5337ff7c-thumbnail.jpg" group-title="Soccer",Cremonese vs Genoa (FEB 15 @ 10:00 PM PHT)
+https://601.xn--1000-ugoa0hsb9a0hb.com/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ca905e4545e3ac12345aed638ea86a41-thumbnail.jpg" group-title="Soccer",Le Havre vs Toulouse (FEB 15 @ 10:00 PM PHT)
+https://601.xn--1000-ugoxe8a5a7g4h.com/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Kilmarnock vs Celtic (FEB 15 @ 10:00 PM PHT)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/cbssn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0dbfe61cf2a377045db6944861de3744-thumbnail.jpg" group-title="Soccer",Augsburg vs Heidenheim (FEB 15 @ 10:30 PM PHT)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/one.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/989ade813a9e2128219cb9f70ba24ef8-thumbnail.jpg" group-title="Soccer",Rayo Vallecano vs Atletico Madrid/a> (FEB 15 @ 11:15 PM PHT)
+https://daffodil.xn--1000-ugoxe8a5a7g4h.com/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/49addc76c965115977b9a11aeb1b294a-thumbnail.jpg" group-title="Soccer",Lorient vs Angers SCO (FEB 16 @ 12:15 AM PHT)
+https://601.833577.xyz/xtra.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5177cd1fbd5c0c089082a2e509a20d9d-thumbnail.jpg" group-title="Soccer",Metz vs Auxerre (FEB 16 @ 12:15 AM PHT)
+https://601.833577.xyz/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e0719e95f08b7c127d13a17bc6002072-thumbnail.jpg" group-title="Soccer",Arsenal vs Wigan Athletic (FEB 16 @ 12:30 AM PHT)
+https://601.833577.xyz/tnt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ea1cff81d6245d0baecf484aa2ba7c57-thumbnail.jpg" group-title="Soccer",RB Leipzig vs Wolfsburg (FEB 16 @ 12:30 AM PHT)
+https://daffodil.833577.xyz/one.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dd01dddb7f4c7b581b0bc0b874111bec-thumbnail.jpg" group-title="Soccer",Torino vs Bologna (FEB 16 @ 01:00 AM PHT)
+https://601.lifesharper.com/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3c55b2e09456c22c2a52e71b781ac113-thumbnail.jpg" group-title="Soccer",Levante vs Valencia (FEB 16 @ 01:30 AM PHT)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/dep.m3u8
+#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f38c6f9be7ebd4ad9a9bd8c24526cdaf-thumbnail.jpg" group-title="Motorsports",NASCAR Cup Series - Daytona (FEB 16 @ 03:00 AM PHT)
+https://daffodil.833577.xyz/nascar.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2f47ed367b5183ea015382d45fb32500-thumbnail.jpg" group-title="Soccer",Lyon vs Nice (FEB 16 @ 03:45 AM PHT)
+https://601.xn--1000-ugoxe8a5a7g4h.com/beines.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c3fc2d6bef7189f5663e4e028629e81a-thumbnail.jpg" group-title="Soccer",Napoli vs Roma (FEB 16 @ 03:45 AM PHT)
+https://601.lifesharper.com/bein.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5ea7c3887c2a8aba4d4f61b4e3df6f4d-thumbnail.jpg" group-title="Soccer",Mallorca vs Real Betis (FEB 16 @ 04:00 AM PHT)
+https://daffodil.lifesharper.com/dep.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Botafogo vs Flamengo (FEB 16 @ 04:30 AM PHT)
+https://601.xn--1000-ugoxe8a5a7g4h.com/prem.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/525b9d573222c6876d78051c047a9dba-thumbnail.jpg" group-title="NBA",NBA All-Star Sunday (FEB 16 @ 06:00 AM PHT)
+https://daffodil.833577.xyz/nba.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Cruz Azul vs Tigres UANL (FEB 16 @ 06:30 AM PHT)
+https://601.xn--1000-ugoxe8a5a7g4h.com/tudn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Boca Juniors vs Platense (FEB 16 @ 06:30 AM PHT)
+https://601.xn--1000-ugoxe8a5a7g4h.com/tyc.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Ypiranga Erechim vs Internacional (FEB 16 @ 07:30 AM PHT)
+https://601.lifesharper.com/sportv.m3u8
 #EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Roku/all.xml"
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
 https://jmp2.uk/rok-50b18dea9c5c51568c1343fcd3d88ec9.m3u8
