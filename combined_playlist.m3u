@@ -4097,256 +4097,281 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Los Angeles Dodgers (MAR 15 @ 04:05 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/MLB.png" group-title="MLB",Texas Rangers vs Los Angeles Dodgers (MAR 15 @ 04:05 PM PHT)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Baltimore Orioles (MAR 31 @ 06:35 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/MLB.png" group-title="MLB",Texas Rangers vs Baltimore Orioles (MAR 31 @ 06:35 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/fox.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs Arizona Diamondbacks (MAR 15 @ 04:10 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/MLB.png" group-title="MLB",San Diego Padres vs Arizona Diamondbacks (MAR 15 @ 04:10 PM PHT)
+https://602.premiumjh.shop/mlb.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Cincinnati Reds (MAR 31 @ 06:40 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/7a6a84bce102ad1b2292b215e3965b36-thumbnail.jpg" group-title="MLB",Pittsburgh Pirates vs Cincinnati Reds (MAR 31 @ 06:40 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/mlb6.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="San Jose Sharks vs Ottawa Senators (MAR 15 @ 05:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/ab14baa7bb57d5ac16e3ab8621867831-thumbnail.jpg" group-title="NHL",San Jose Sharks vs Ottawa Senators (MAR 15 @ 05:00 PM PHT)
+https://602.premiumjh.shop/mlb2.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs Philadelphia Phillies (MAR 31 @ 06:40 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/85c0dab069df249c8c49ecdc5ec4a70d-thumbnail.jpg" group-title="MLB",Washington Nationals vs Philadelphia Phillies (MAR 31 @ 06:40 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.lifesharper.com/nhl2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Baltimore Orioles (MAR 15 @ 06:05 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/3122de69deef5a5ee98c65db6f4b0e79-thumbnail.jpg" group-title="MLB",New York Yankees vs Baltimore Orioles (MAR 15 @ 06:05 PM PHT)
+https://602.premiumjh.shop/mlb3.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Miami Marlins (MAR 31 @ 06:40 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b5e68ac92f8fbbf2954f2b61bada9043-thumbnail.jpg" group-title="MLB",Chicago White Sox vs Miami Marlins (MAR 31 @ 06:40 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/mlb7.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Anaheim Ducks vs Montreal Canadiens (MAR 15 @ 07:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/544e22e07d399ac3887d1ac979c8283f-thumbnail.jpg" group-title="NHL",Anaheim Ducks vs Montreal Canadiens (MAR 15 @ 07:00 PM PHT)
+https://602.premiumjh.shop/mlb4.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dallas Stars vs Boston Bruins (MAR 31 @ 07:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/61be639403d8e5649295d8736e8d66fe-thumbnail.jpg" group-title="NHL",Dallas Stars vs Boston Bruins (MAR 31 @ 07:00 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.lifesharper.com/nhl3.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Verona vs Genoa (MAR 15 @ 07:30 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Verona vs Genoa (MAR 15 @ 07:30 PM PHT)
+https://602.premiumjh.shop/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders vs Buffalo Sabres (MAR 31 @ 07:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/af9e40b9f6ec76bc75ac9065b744dbca-thumbnail.jpg" group-title="NHL",New York Islanders vs Buffalo Sabres (MAR 31 @ 07:00 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/golazo.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Toronto Maple Leafs vs Minnesota Wild (MAR 15 @ 07:30 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/7eabf4499a82df319eb994fa390245f0-thumbnail.jpg" group-title="NHL",Toronto Maple Leafs vs Minnesota Wild (MAR 15 @ 07:30 PM PHT)
+https://602.premiumjh.shop/nhl2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Montreal Canadiens vs Tampa Bay Lightning (MAR 31 @ 07:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b3e59abca7f5b561022bd0db9a604f45-thumbnail.jpg" group-title="NHL",Montreal Canadiens vs Tampa Bay Lightning (MAR 31 @ 07:00 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.lifesharper.com/nhl4.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="St. Mirren vs Rangers (MAR 15 @ 08:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",St. Mirren vs Rangers (MAR 15 @ 08:00 PM PHT)
+https://602.premiumjh.shop/nhl3.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ottawa Senators vs Florida Panthers (MAR 31 @ 07:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/nhl.png" group-title="NHL",Ottawa Senators vs Florida Panthers (MAR 31 @ 07:00 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/cbssn.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nashville Predators vs Edmonton Oilers (MAR 15 @ 08:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/0b8dacb79d3d6e2e4d59610b7e4cbe7b-thumbnail.jpg" group-title="NHL",Nashville Predators vs Edmonton Oilers (MAR 15 @ 08:00 PM PHT)
+https://602.premiumjh.shop/nhl4.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New Jersey Devils vs New York Rangers (MAR 31 @ 07:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/af9e40b9f6ec76bc75ac9065b744dbca-thumbnail.jpg" group-title="NHL",New Jersey Devils vs New York Rangers (MAR 31 @ 07:00 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.lifesharper.com/nhl5.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Florida Panthers vs Seattle Kraken (MAR 15 @ 08:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/61c127924de83beb90d4456ba38bcc43-thumbnail.jpg" group-title="NHL",Florida Panthers vs Seattle Kraken (MAR 15 @ 08:00 PM PHT)
+https://602.premiumjh.shop/nhl5.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings vs Pittsburgh Penguins (MAR 31 @ 07:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/f68988d3dcaf40ee1e37de77391d0bea-thumbnail.jpg" group-title="NHL",Detroit Red Wings vs Pittsburgh Penguins (MAR 31 @ 07:00 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.lifesharper.com/nhl6.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Espanyol vs Mallorca (MAR 15 @ 09:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Espanyol vs Mallorca (MAR 15 @ 09:00 PM PHT)
+https://602.premiumjh.shop/nhl6.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers vs Washington Capitals (MAR 31 @ 07:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/4056f04bd065902fd6de940177c46661-thumbnail.jpg" group-title="NHL",Philadelphia Flyers vs Washington Capitals (MAR 31 @ 07:00 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Crystal Palace vs Leeds United (MAR 15 @ 10:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/a92b2d5344e4fba539d4874a97fa229a-thumbnail.jpg" group-title="Soccer",Crystal Palace vs Leeds United (MAR 15 @ 10:00 PM PHT)
+https://602.premiumjh.shop/nhl7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs Toronto Blue Jays (MAR 31 @ 07:07 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/4d725c5721e0bfd81ca956077fd2ce75-thumbnail.jpg" group-title="MLB",Colorado Rockies vs Toronto Blue Jays (MAR 31 @ 07:07 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/crystal.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Manchester United vs Aston Villa (MAR 15 @ 10:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/a92b2d5344e4fba539d4874a97fa229a-thumbnail.jpg" group-title="Soccer",Manchester United vs Aston Villa (MAR 15 @ 10:00 PM PHT)
+https://602.premiumjh.shop/mlb5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics vs Atlanta Braves (MAR 31 @ 07:15 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/6d4e31afad3b09a4e2b1a211591d663c-thumbnail.jpg" group-title="MLB",Athletics vs Atlanta Braves (MAR 31 @ 07:15 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nottingham Forest vs Fulham (MAR 15 @ 10:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Nottingham Forest vs Fulham (MAR 15 @ 10:00 PM PHT)
+https://602.premiumjh.shop/mlb6.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes vs Columbus Blue Jackets (MAR 31 @ 07:30 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/6d4e31afad3b09a4e2b1a211591d663c-thumbnail.jpg" group-title="NHL",Carolina Hurricanes vs Columbus Blue Jackets (MAR 31 @ 07:30 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/fulham.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Strasbourg vs Paris (MAR 15 @ 10:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Strasbourg vs Paris (MAR 15 @ 10:00 PM PHT)
+https://602.premiumjh.shop/nhl8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Chicago Cubs (MAR 31 @ 07:40 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b5e68ac92f8fbbf2954f2b61bada9043-thumbnail.jpg" group-title="MLB",Los Angeles Angels vs Chicago Cubs (MAR 31 @ 07:40 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Dundee vs Dundee United (MAR 15 @ 10:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/a92b2d5344e4fba539d4874a97fa229a-thumbnail.jpg" group-title="Soccer",Dundee vs Dundee United (MAR 15 @ 10:00 PM PHT)
+https://602.premiumjh.shop/mlb7.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Milwaukee Brewers (MAR 31 @ 07:40 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b3e59abca7f5b561022bd0db9a604f45-thumbnail.jpg" group-title="MLB",Tampa Bay Rays vs Milwaukee Brewers (MAR 31 @ 07:40 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sassuolo vs Bologna (MAR 15 @ 10:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Sassuolo vs Bologna (MAR 15 @ 10:00 PM PHT)
+https://602.premiumjh.shop/mlb8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs St. Louis Cardinals (MAR 31 @ 07:45 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/af9e40b9f6ec76bc75ac9065b744dbca-thumbnail.jpg" group-title="MLB",New York Mets vs St. Louis Cardinals (MAR 31 @ 07:45 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/golazo.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Werder Bremen vs Mainz (MAR 15 @ 10:30 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Werder Bremen vs Mainz (MAR 15 @ 10:30 PM PHT)
+https://602.premiumjh.shop/mlb9.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kazakhstan vs Comoros (MAR 31 @ 08:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Kazakhstan vs Comoros (MAR 31 @ 08:00 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/one.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barcelona vs Sevilla (MAR 15 @ 11:15 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Barcelona vs Sevilla (MAR 15 @ 11:15 PM PHT)
+https://daffodil.premiumjh.shop/fsp.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Houston Astros (MAR 31 @ 08:10 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/61be639403d8e5649295d8736e8d66fe-thumbnail.jpg" group-title="MLB",Boston Red Sox vs Houston Astros (MAR 31 @ 08:10 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Le Havre vs Lyon (MAR 16 @ 12:15 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b2e0184e5f8937de73b1301cf921572a-thumbnail.jpg" group-title="Soccer",Le Havre vs Lyon (MAR 16 @ 12:15 AM PHT)
+https://602.premiumjh.shop/mlb10.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Winnipeg Jets vs Chicago Blackhawks (MAR 31 @ 08:30 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/f935cd9049b84428d1d38f70167e28c9-thumbnail.jpg" group-title="NHL",Winnipeg Jets vs Chicago Blackhawks (MAR 31 @ 08:30 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs Tottenham (MAR 16 @ 12:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/fe9d71f8e19bc4e5c36b1966c3bd07e2-thumbnail.jpg" group-title="Soccer",Liverpool vs Tottenham (MAR 16 @ 12:30 AM PHT)
+https://602.premiumjh.shop/nhl9.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Seattle Kraken vs Edmonton Oilers (MAR 31 @ 09:00 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/29dac19da9ff98a08977c90991b5657f-thumbnail.jpg" group-title="NHL",Seattle Kraken vs Edmonton Oilers (MAR 31 @ 09:00 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/main.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Freiburg vs Union Berlin (MAR 16 @ 12:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/0e69ec4c2aecf286610715a44a70ffd7-thumbnail.jpg" group-title="Soccer",Freiburg vs Union Berlin (MAR 16 @ 12:30 AM PHT)
+https://602.premiumjh.shop/nhl10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Arizona Diamondbacks (MAR 31 @ 09:40 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/f68988d3dcaf40ee1e37de77391d0bea-thumbnail.jpg" group-title="MLB",Detroit Tigers vs Arizona Diamondbacks (MAR 31 @ 09:40 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/one.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves vs Oklahoma City Thunder (MAR 16 @ 01:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/870e77e9a7bf06b7a6bc140f8c1ee34e-thumbnail.jpg" group-title="NBA",Minnesota Timberwolves vs Oklahoma City Thunder (MAR 16 @ 01:00 AM PHT)
+https://602.premiumjh.shop/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs San Diego Padres (MAR 31 @ 09:40 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/60e6e0d73f6c57aec845bc841abd2728-thumbnail.jpg" group-title="MLB",San Francisco Giants vs San Diego Padres (MAR 31 @ 09:40 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/nba.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Como vs Roma (MAR 16 @ 01:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/7dff25945e44197480b86cb942e637fc-thumbnail.jpg" group-title="Soccer",Como vs Roma (MAR 16 @ 01:00 AM PHT)
+https://602.premiumjh.shop/mlb12.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Seattle Mariners (MAR 31 @ 09:40 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/f230896d7945529b4aa477be2ecdecc4-thumbnail.jpg" group-title="MLB",New York Yankees vs Seattle Mariners (MAR 31 @ 09:40 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/golazo.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins vs Boston Red Sox (MAR 16 @ 01:05 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/870e77e9a7bf06b7a6bc140f8c1ee34e-thumbnail.jpg" group-title="MLB",Minnesota Twins vs Boston Red Sox (MAR 16 @ 01:05 AM PHT)
+https://602.premiumjh.shop/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Los Angeles Dodgers (MAR 31 @ 10:10 PM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/fb39ab9672f6e7ff07c08f0bd05385a3-thumbnail.jpg" group-title="MLB",Cleveland Guardians vs Los Angeles Dodgers (MAR 31 @ 10:10 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/mlb.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs Philadelphia Phillies (MAR 16 @ 01:05 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/a26cedee2ae9d858514fe2d076476002-thumbnail.jpg" group-title="MLB",Atlanta Braves vs Philadelphia Phillies (MAR 16 @ 01:05 AM PHT)
+https://602.premiumjh.shop/mlb14.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Luxembourg vs Malta (APR 01 @ 12:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Luxembourg vs Malta (APR 01 @ 12:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/mlb2.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs New York Yankees (MAR 16 @ 01:05 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b39543887e67a32e58bc40960ab00aff-thumbnail.jpg" group-title="MLB",Detroit Tigers vs New York Yankees (MAR 16 @ 01:05 AM PHT)
+https://daffodil.premiumjh.shop/fsp.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs Switzerland (APR 01 @ 12:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Norway vs Switzerland (APR 01 @ 12:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/mlb3.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs New York Mets (MAR 16 @ 01:10 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b39543887e67a32e58bc40960ab00aff-thumbnail.jpg" group-title="MLB",Toronto Blue Jays vs New York Mets (MAR 16 @ 01:10 AM PHT)
+https://daffodil.premiumjh.shop/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Haiti vs Iceland (APR 01 @ 12:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Haiti vs Iceland (APR 01 @ 12:30 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/mlb4.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Betis vs Celta Vigo (MAR 16 @ 01:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/3dd6dd9cbe9d5d546e9eb84bb989a5ea-thumbnail.jpg" group-title="Soccer",Real Betis vs Celta Vigo (MAR 16 @ 01:30 AM PHT)
+https://daffodil.premiumjh.shop/one.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Peru vs Honduras (APR 01 @ 02:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Peru vs Honduras (APR 01 @ 02:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Oviedo vs Valencia (MAR 16 @ 01:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/3dd6dd9cbe9d5d546e9eb84bb989a5ea-thumbnail.jpg" group-title="Soccer",Real Oviedo vs Valencia (MAR 16 @ 01:30 AM PHT)
+https://daffodil.premiumjh.shop/foxd.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Morocco vs Paraguay (APR 01 @ 02:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Morocco vs Paraguay (APR 01 @ 02:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Stuttgart vs Leipzig (MAR 16 @ 02:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/86ba2237dac95409555b95d92d0cf9f5-thumbnail.jpg" group-title="Soccer",Stuttgart vs Leipzig (MAR 16 @ 02:30 AM PHT)
+https://daffodil.premiumjh.shop/claro.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Scotland vs Cote D'Ivoire (APR 01 @ 02:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Scotland vs Cote D'Ivoire (APR 01 @ 02:30 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/one.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Santos vs Corinthians (MAR 16 @ 03:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Santos vs Corinthians (MAR 16 @ 03:00 AM PHT)
+https://602.premiumjh.shop/bbc.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bosnia vs Italy (APR 01 @ 02:45 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Bosnia vs Italy (APR 01 @ 02:45 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/tnt.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="St. Louis Blues vs Winnipeg Jets (MAR 16 @ 03:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/ad1e24fc4bd0f782d9bf9593fe999c19-thumbnail.jpg" group-title="NHL",St. Louis Blues vs Winnipeg Jets (MAR 16 @ 03:00 AM PHT)
+https://daffodil.premiumjh.shop/fs1.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kosovo vs Turkey (APR 01 @ 02:45 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Kosovo vs Turkey (APR 01 @ 02:45 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/nhl.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Cleveland Cavaliers (MAR 16 @ 03:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/222a9234540db0bbabc1055aef15ce34-thumbnail.jpg" group-title="NBA",Dallas Mavericks vs Cleveland Cavaliers (MAR 16 @ 03:30 AM PHT)
+https://602.premiumjh.shop/fs2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sweden vs Poland (APR 01 @ 02:45 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Sweden vs Poland (APR 01 @ 02:45 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/nba2.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Detroit Pistons vs Toronto Raptors (MAR 16 @ 03:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b39543887e67a32e58bc40960ab00aff-thumbnail.jpg" group-title="NBA",Detroit Pistons vs Toronto Raptors (MAR 16 @ 03:30 AM PHT)
+https://602.premiumjh.shop/sky2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Netherlands vs Ecuador (APR 01 @ 02:45 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Netherlands vs Ecuador (APR 01 @ 02:45 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/nba3.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers vs Milwaukee Bucks (MAR 16 @ 03:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/0a6073ea5f4fe126ced8ae65f53711f0-thumbnail.jpg" group-title="NBA",Indiana Pacers vs Milwaukee Bucks (MAR 16 @ 03:30 AM PHT)
+https://602.premiumjh.shop/ecdf.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="England vs Japan (APR 01 @ 02:45 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/42706641abbfac49f3298f6b561f3911-thumbnail.jpg" group-title="Soccer",England vs Japan (APR 01 @ 02:45 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/nba4.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rennes vs Lille (MAR 16 @ 03:45 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/f7adb052701ed191bc509f244617bee5-thumbnail.jpg" group-title="Soccer",Rennes vs Lille (MAR 16 @ 03:45 AM PHT)
+https://602.premiumjh.shop/itv.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Spain vs Egypt (APR 01 @ 03:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Spain vs Egypt (APR 01 @ 03:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/cbssn.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lazio vs Milan (MAR 16 @ 03:45 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/ac0d7317286d10913f05aeee5c663dbd-thumbnail.jpg" group-title="Soccer",Lazio vs Milan (MAR 16 @ 03:45 AM PHT)
+https://602.premiumjh.shop/la.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns vs Orlando Magic (APR 01 @ 07:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/365b39e2bb74f743689d517bf8942bad-thumbnail.jpg" group-title="NBA",Phoenix Suns vs Orlando Magic (APR 01 @ 07:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/fsp.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Sociedad vs Osasuna (MAR 16 @ 04:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/e6f9438b0454348e2b57c3ee68e055fe-thumbnail.jpg" group-title="Soccer",Real Sociedad vs Osasuna (MAR 16 @ 04:00 AM PHT)
+https://daffodil.premiumjh.shop/nba.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="USA vs Portugal (APR 01 @ 07:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",USA vs Portugal (APR 01 @ 07:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Madrid vs Elche (MAR 16 @ 04:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/3dd6dd9cbe9d5d546e9eb84bb989a5ea-thumbnail.jpg" group-title="Soccer",Real Madrid vs Elche (MAR 16 @ 04:00 AM PHT)
+https://daffodil.premiumjh.shop/universo.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs Zambia (APR 01 @ 07:15 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Argentina vs Zambia (APR 01 @ 07:15 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/dep.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Palmeiras vs Mirassol (MAR 16 @ 05:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Palmeiras vs Mirassol (MAR 16 @ 05:30 AM PHT)
+https://602.premiumjh.shop/beines.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Brooklyn Nets (APR 01 @ 07:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/85c0dab069df249c8c49ecdc5ec4a70d-thumbnail.jpg" group-title="NBA",Charlotte Hornets vs Brooklyn Nets (APR 01 @ 07:30 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/benfica.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers vs Philadelphia 76ers (MAR 16 @ 06:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/a26cedee2ae9d858514fe2d076476002-thumbnail.jpg" group-title="NBA",Portland Trail Blazers vs Philadelphia 76ers (MAR 16 @ 06:00 AM PHT)
+https://daffodil.premiumjh.shop/nba2.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Canada vs Tunisia (APR 01 @ 07:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Canada vs Tunisia (APR 01 @ 07:30 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/nba5.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tigres vs Querétaro (MAR 16 @ 07:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Tigres vs Querétaro (MAR 16 @ 07:00 AM PHT)
+https://602.premiumjh.shop/fs2.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors vs Detroit Pistons (APR 01 @ 08:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/f68988d3dcaf40ee1e37de77391d0bea-thumbnail.jpg" group-title="NBA",Toronto Raptors vs Detroit Pistons (APR 01 @ 08:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/sportv.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cruzeiro vs Vasco Da Gama (MAR 16 @ 07:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Cruzeiro vs Vasco Da Gama (MAR 16 @ 07:30 AM PHT)
+https://daffodil.premiumjh.shop/nba3.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New York Knicks vs Houston Rockets (APR 01 @ 08:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/af9e40b9f6ec76bc75ac9065b744dbca-thumbnail.jpg" group-title="NBA",New York Knicks vs Houston Rockets (APR 01 @ 08:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/vix.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors vs New York Knicks (MAR 16 @ 08:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/3122de69deef5a5ee98c65db6f4b0e79-thumbnail.jpg" group-title="NBA",Golden State Warriors vs New York Knicks (MAR 16 @ 08:00 AM PHT)
+https://daffodil.premiumjh.shop/nba4.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Milwaukee Bucks (APR 01 @ 08:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b3e59abca7f5b561022bd0db9a604f45-thumbnail.jpg" group-title="NBA",Dallas Mavericks vs Milwaukee Bucks (APR 01 @ 08:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/nba6.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW: Revolution 2026 (MAR 16 @ 08:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/2dd42df2917cf2fd89dd8adfb34b2d2d-thumbnail.jpg" group-title="Fighting",AEW: Revolution 2026 (MAR 16 @ 08:00 AM PHT)
+https://daffodil.premiumjh.shop/nba5.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brazil vs Croatia (APR 01 @ 08:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Brazil vs Croatia (APR 01 @ 08:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.lifesharper.com/aew.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="USA vs Dominican Republic (MAR 16 @ 08:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/MLB.png" group-title="MLB",USA vs Dominican Republic (MAR 16 @ 08:00 AM PHT)
+https://602.premiumjh.shop/sportv.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE NXT (APR 01 @ 08:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",WWE NXT (APR 01 @ 08:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.lifesharper.com/mlb8.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="América vs Mazatlan (MAR 16 @ 09:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",América vs Mazatlan (MAR 16 @ 09:00 AM PHT)
+https://602.premiumjh.shop/wwe.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mexico vs Belgium (APR 01 @ 09:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/6c4260f233d6d31e4d9576bb1dc6237b-thumbnail.jpg" group-title="Soccer",Mexico vs Belgium (APR 01 @ 09:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.lifesharper.com/universo.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz vs Sacramento Kings (MAR 16 @ 10:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/7ad12b9d7d4096f3446386dc7e73c129-thumbnail.jpg" group-title="NBA",Utah Jazz vs Sacramento Kings (MAR 16 @ 10:00 AM PHT)
+https://602.premiumjh.shop/tudn.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers vs Los Angeles Lakers (APR 01 @ 10:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/b70f912405878f0cb53884c3df54e03e-thumbnail.jpg" group-title="NBA",Cleveland Cavaliers vs Los Angeles Lakers (APR 01 @ 10:30 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.lifesharper.com/nba7.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE RAW (MAR 17 @ 08:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",WWE RAW (MAR 17 @ 08:00 AM PHT)
+https://daffodil.premiumjh.shop/nba6.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers vs Los Angeles Clippers (APR 01 @ 11:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/ccbf768bd738a557a32939abfbc13571-thumbnail.jpg" group-title="NBA",Portland Trail Blazers vs Los Angeles Clippers (APR 01 @ 11:00 AM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.lifesharper.com/wwe.m3u8
+https://daffodil.premiumjh.shop/nba4.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Iraq vs Bolivia (APR 01 @ 11:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/8129b640cfe65663f28a10469d5a517a-thumbnail.jpg" group-title="Soccer",Iraq vs Bolivia (APR 01 @ 11:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://daffodil.premiumjh.shop/fs1.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW (APR 02 @ 08:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",AEW (APR 02 @ 08:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://602.premiumjh.shop/aew.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Smackdown (APR 04 @ 08:00 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Fighting",WWE Smackdown (APR 04 @ 08:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://602.premiumjh.shop/wwe.m3u8
+#EXTINF:-1 tvg-id="NCAA.Hockey.Dummy.us" tvg-name="Illinois vs UConn (APR 05 @ 06:09 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/ncaa.png" group-title="NCAA",Illinois vs UConn (APR 05 @ 06:09 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://602.premiumjh.shop/ncaa4.m3u8
+#EXTINF:-1 tvg-id="NCAA.Hockey.Dummy.us" tvg-name="Michigan vs Arizona (APR 05 @ 08:49 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/f68988d3dcaf40ee1e37de77391d0bea-thumbnail.jpg" group-title="NCAA",Michigan vs Arizona (APR 05 @ 08:49 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://602.premiumjh.shop/ncaa4.m3u8
 #EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Roku/all.xml"
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
 https://jmp2.uk/rok-50b18dea9c5c51568c1343fcd3d88ec9.m3u8
