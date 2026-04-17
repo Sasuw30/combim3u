@@ -10,7 +10,7 @@ M3U_SOURCES = [
 
 ]
 
-MAIN_EPG = "https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
+MAIN_EPG = "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
 
 
 def fetch_m3u(url):
