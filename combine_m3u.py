@@ -4,11 +4,9 @@ OUTPUT_FILE = "combined_playlist.m3u"
 
 M3U_SOURCES = [
     "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u",
-    "https://viplaylist.vercel.app/AriaPlus.m3u",
     "https://ppv.atone77721.workers.dev/SportsWebcast.m3u8",
-    "https://viplaylist.vercel.app/Roku.m3u",
     "https://viplaylist.vercel.app/ssungph.m3u",
-    "https://premiumm3u.vercel.app/skygo.m3u",
+
 
 ]
 
