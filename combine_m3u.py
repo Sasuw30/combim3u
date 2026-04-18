@@ -3,7 +3,7 @@ import requests
 OUTPUT_FILE = "combined_playlist.m3u"
 
 M3U_SOURCES = [
-    "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u",
+    "https://raw.githubusercontent.com/ryansnetcafe/ott-playlist/refs/heads/main/ryansnetcafe.m3u",
     "https://ppv.atone77721.workers.dev/SportsWebcast.m3u8",
 ]
 
