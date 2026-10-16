@@ -551,33 +551,65 @@ https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
 https://stream.zeno.fm/69b1kf7q0y5tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yhvWcG2.jpeg" group-title="Ph Live Radio",105.9 True FM
 https://www.truefm.ph/radio-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="WEC - 6 Hours of Fuji Race (SEP 28 @ 05:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/f1.png" group-title="Motorsports",WEC - 6 Hours of Fuji Race (SEP 28 @ 05:00 PM PHT)
-https://admin2.formaturamaxi.com.br/wec.m3u8
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="NASCAR Cup Series - Race (SEP 29 @ 10:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/f1.png" group-title="Motorsports",NASCAR Cup Series - Race (SEP 29 @ 10:00 AM PHT)
-https://admin2.formaturamaxi.com.br/nascar.m3u8
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="High Limit Racing - Race (SEP 29 @ 01:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/f1.png" group-title="Motorsports",High Limit Racing - Race (SEP 29 @ 01:00 PM PHT)
-https://admin.formaturamaxi.com.br/flo.m3u8
-#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="Philadelphia Eagles vs Chicago Bears (SEP 29 @ 03:15 PM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/95776ad97e969f4090bfe5ce58a042e2-thumbnail.jpg" group-title="NFL",Philadelphia Eagles vs Chicago Bears (SEP 29 @ 03:15 PM PHT)
+#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="MotoGP - Indonesian Grand Prix (OCT 11 @ 03:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/f1.png" group-title="Motorsports",MotoGP - Indonesian Grand Prix (OCT 11 @ 03:00 PM PHT)
+https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="Formula 1 - Singapore Grand Prix (OCT 11 @ 08:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/f1.png" group-title="Motorsports",Formula 1 - Singapore Grand Prix (OCT 11 @ 08:00 PM PHT)
+https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="NASCAR Cup Series - Race (OCT 12 @ 03:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/f1.png" group-title="Motorsports",NASCAR Cup Series - Race (OCT 12 @ 03:00 AM PHT)
+https://admin2.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lyon vs Crystal Palace (OCT 16 @ 12:45 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/fff54fb2994a0ac622144e45b689d39d-thumbnail.jpg" group-title="Soccer",Lyon vs Crystal Palace (OCT 16 @ 12:45 AM PHT)
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Salzburg vs Milan (OCT 16 @ 12:45 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/9e098daac55fd09c1083f9761a309308-thumbnail.jpg" group-title="Soccer",Salzburg vs Milan (OCT 16 @ 12:45 AM PHT)
+https://tedesco.formaturamaxi.com.br/tnt5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Cleveland Guardians (OCT 16 @ 01:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/33eab9988f0c93af2899463b5bbf7322-thumbnail.jpg" group-title="MLB",Tampa Bay Rays vs Cleveland Guardians (OCT 16 @ 01:00 AM PHT)
+https://admin2.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Benfica vs Celtic (OCT 16 @ 03:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/6c96d5db270315255e4cb7b0b4c9141b-thumbnail.jpg" group-title="Soccer",Benfica vs Celtic (OCT 16 @ 03:00 AM PHT)
+https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Celta Vigo vs Juventus (OCT 16 @ 03:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/1daf728f4ea1c527ca4e38049c251caf-thumbnail.jpg" group-title="Soccer",Celta Vigo vs Juventus (OCT 16 @ 03:00 AM PHT)
+https://admin2.formaturamaxi.com.br/juve.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Hearts vs Nordsjælland (OCT 16 @ 03:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/8df3df1bc296dfaa24ab9b8657f33837-thumbnail.jpg" group-title="Soccer",Hearts vs Nordsjælland (OCT 16 @ 03:00 AM PHT)
+https://admin2.formaturamaxi.com.br/tnt4.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Marseille vs Olympiakos (OCT 16 @ 03:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/50f7f475403eccd6f1a7f5c2b3528238-thumbnail.jpg" group-title="Soccer",Marseille vs Olympiakos (OCT 16 @ 03:00 AM PHT)
+https://admin2.formaturamaxi.com.br/mars.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mansfield Town vs Oxford (OCT 16 @ 03:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Mansfield Town vs Oxford (OCT 16 @ 03:00 AM PHT)
+https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres vs Toronto Maple Leafs (OCT 16 @ 07:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/176fbd63c82d51c256d9036276893c16-thumbnail.jpg" group-title="NHL",Buffalo Sabres vs Toronto Maple Leafs (OCT 16 @ 07:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders vs Ottawa Senators (OCT 16 @ 07:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/38c8d7b6e40c87472e9524b041e03ca9-thumbnail.jpg" group-title="NHL",New York Islanders vs Ottawa Senators (OCT 16 @ 07:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Seattle Kraken vs Tampa Bay Lightning (OCT 16 @ 07:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/ea84161b8536636c0d4712fdfa2dec52-thumbnail.jpg" group-title="NHL",Seattle Kraken vs Tampa Bay Lightning (OCT 16 @ 07:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks vs Florida Panthers (OCT 16 @ 07:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/e6db55d189d759c63e6b96d5eeb54b98-thumbnail.jpg" group-title="NHL",Vancouver Canucks vs Florida Panthers (OCT 16 @ 07:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers vs New Jersey Devils (OCT 16 @ 07:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/c623295688d1552e93059528343798ba-thumbnail.jpg" group-title="NHL",New York Rangers vs New Jersey Devils (OCT 16 @ 07:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors vs New York Knicks (OCT 16 @ 07:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/d9f3e8e801035b408bdb229d0e25452d-thumbnail.jpg" group-title="NBA",Toronto Raptors vs New York Knicks (OCT 16 @ 07:30 AM PHT)
+https://admin2.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="East Carolina vs UAB (OCT 16 @ 07:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/nfl.png" group-title="NFL",East Carolina vs UAB (OCT 16 @ 07:30 AM PHT)
+https://tedesco.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="Georgia Southern vs Old Dominion (OCT 16 @ 07:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/nfl.png" group-title="NFL",Georgia Southern vs Old Dominion (OCT 16 @ 07:30 AM PHT)
+https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers vs Detroit Red Wings (OCT 16 @ 07:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/bdee434c7934efe9e8c4d70980587d86-thumbnail.jpg" group-title="NHL",Philadelphia Flyers vs Detroit Red Wings (OCT 16 @ 07:30 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="Colorado State vs Texas State (OCT 16 @ 08:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/nfl.png" group-title="NFL",Colorado State vs Texas State (OCT 16 @ 08:00 AM PHT)
+https://tedesco.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Winnipeg Jets vs Chicago Blackhawks (OCT 16 @ 08:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/9d88feafab6d5a85ddef199cd1e6e4a3-thumbnail.jpg" group-title="NHL",Winnipeg Jets vs Chicago Blackhawks (OCT 16 @ 08:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl7.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="San Jose Sharks vs Nashville Predators (OCT 16 @ 08:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/cf9d665f874b9a806c74863c4ad14748-thumbnail.jpg" group-title="NHL",San Jose Sharks vs Nashville Predators (OCT 16 @ 08:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="St. Louis Blues vs Minnesota Wild (OCT 16 @ 08:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/a8ae352e16f1794cc1aafa186541084b-thumbnail.jpg" group-title="NHL",St. Louis Blues vs Minnesota Wild (OCT 16 @ 08:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="Seattle Seahawks vs Denver Broncos (OCT 16 @ 08:15 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/07f5a2f4bdd0a3f28da8d5211a97a4a8-thumbnail.jpg" group-title="NFL",Seattle Seahawks vs Denver Broncos (OCT 16 @ 08:15 AM PHT)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Eritrea vs South Africa (OCT 01 @ 07:00 AM PHT)" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="Soccer",Eritrea vs South Africa (OCT 01 @ 07:00 AM PHT)
-https://tedesco.passionepizza.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lithuania vs Andorra (OCT 01 @ 07:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Lithuania vs Andorra (OCT 01 @ 07:00 AM PHT)
-https://tedesco.passionepizza.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs Atlanta Braves (OCT 01 @ 09:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/7349d8fd61256dd678ec4033d0de2a26-thumbnail.jpg" group-title="MLB",Philadelphia Phillies vs Atlanta Braves (OCT 01 @ 09:00 AM PHT)
-https://admin2.passionepizza.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="New York RB vs St. Louis City (OCT 01 @ 02:30 PM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/3a1da5ddf8d686b368a308c8b2e01deb-thumbnail.jpg" group-title="Soccer",New York RB vs St. Louis City (OCT 01 @ 02:30 PM PHT)
-https://admin2.passionepizza.com.br/mls.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins vs Philadelphia Flyers (OCT 01 @ 02:30 PM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/6499358cb4b71582602808bbf2151107-thumbnail.jpg" group-title="NHL",Pittsburgh Penguins vs Philadelphia Flyers (OCT 01 @ 02:30 PM PHT)
-https://tedesco.passionepizza.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders vs Toronto Maple Leafs (OCT 01 @ 02:30 PM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/61fdcec269b60b306fdcc4cc4d85b369-thumbnail.jpg" group-title="NHL",New York Islanders vs Toronto Maple Leafs (OCT 01 @ 02:30 PM PHT)
-https://admin2.passionepizza.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs Bolivia (OCT 01 @ 03:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Argentina vs Bolivia (OCT 01 @ 03:00 PM PHT)
-https://admin2.passionepizza.com.br/vixmx.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW (OCT 01 @ 03:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",AEW (OCT 01 @ 03:00 PM PHT)
-https://tedesco.passionepizza.com.br/aew.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs vs San Diego Padres (OCT 01 @ 05:00 PM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/e0a360d6fba52aa7a8dcd9ac2ca7ab09-thumbnail.jpg" group-title="MLB",Chicago Cubs vs San Diego Padres (OCT 01 @ 05:00 PM PHT)
-https://admin.passionepizza.com.br/mlb2.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA (OCT 02 @ 03:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",TNA (OCT 02 @ 03:00 PM PHT)
-https://admin2.passionepizza.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Smackdown (OCT 02 @ 03:00 PM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Fighting",WWE Smackdown (OCT 02 @ 03:00 PM PHT)
-https://admin2.passionepizza.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder vs Houston Rockets (OCT 16 @ 08:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/7640679185fa59ca0f2d2713ffde7853-thumbnail.jpg" group-title="NBA",Oklahoma City Thunder vs Houston Rockets (OCT 16 @ 08:30 AM PHT)
+https://admin2.formaturamaxi.com.br/nbatv.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Estudiantes vs Flamengo (OCT 16 @ 08:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Estudiantes vs Flamengo (OCT 16 @ 08:30 AM PHT)
+https://admin.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Utah Mammoth vs Edmonton Oilers (OCT 16 @ 09:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/b3752bb7827c45cf04c09164354fdc72-thumbnail.jpg" group-title="NHL",Utah Mammoth vs Edmonton Oilers (OCT 16 @ 09:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl10.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA (OCT 16 @ 09:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",TNA (OCT 16 @ 09:00 AM PHT)
+https://admin2.formaturamaxi.com.br/ppv.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames vs Vegas Golden Knights (OCT 16 @ 10:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/4e5ac11e30f25a0539aee1264f0f5a0d-thumbnail.jpg" group-title="NHL",Calgary Flames vs Vegas Golden Knights (OCT 16 @ 10:00 AM PHT)
+https://admin2.formaturamaxi.com.br/nhl11.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Smackdown (OCT 17 @ 08:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Fighting",WWE Smackdown (OCT 17 @ 08:00 AM PHT)
+https://admin2.formaturamaxi.com.br/wwe.m3u8
